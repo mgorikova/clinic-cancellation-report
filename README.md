@@ -1,6 +1,8 @@
 # Clinic appointment cancellations: an Excel reporting project
 
 > **All data in this repository are synthetic.** The appointment exports and the age/sex file were generated, with the help of an AI assistant, to have the same structure as a practice-management (Zanda) export from a paediatric play-therapy clinic. No real patients, families or staff are included.
+>
+> **The SMS reminders are a hypothetical scenario.** The simulated data include a change on 3 November 2025, described as the start of SMS appointment reminders, so that the report can show how a before/after change is detected. It does not describe a real clinic event.
 
 A routine operational task, the weekly and monthly cancellation report, built in Excel with Power Query, Power Pivot (DAX) and VBA, and extended with basic statistical methods: confidence intervals, control limits and a p-chart.
 
@@ -14,7 +16,7 @@ A routine operational task, the weekly and monthly cancellation report, built in
 |---|---|
 | Data | 7,313 appointments · 104 weeks (Nov 2024 – Oct 2026) · 684 children · 25 therapists |
 | Overall cancellation rate | 12.9% (95% CI 12.1–13.7%) |
-| Before vs after SMS reminders (3 Nov 2025) | p-chart centre line 15.2% → 10.5% |
+| Before vs after SMS reminders (hypothetical, 3 Nov 2025) | p-chart centre line 15.2% → 10.5% |
 | Unusual weeks | one week above the upper control limit: 14 Apr 2025 (Easter + school holidays, about 31%) |
 | Girls vs boys | 10.8% (9.8–11.9%) vs 12.0% (11.0–13.0%) |
 | Age groups | 3–5 years 11.8%, 6–8 years 12.1%, 9–12 years 10.3% (all CIs overlap) |

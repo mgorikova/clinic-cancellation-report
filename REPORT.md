@@ -1,6 +1,7 @@
 # Appointment cancellations in a paediatric play-therapy clinic: an Excel reporting project
 
 **Data:** synthetic (simulated) appointment records, generated with the help of an AI assistant to match the structure of a real practice-management export (Zanda). No real patients, families or staff are included.
+**Scenario:** the SMS reminders starting on 3 November 2025 are hypothetical. The change was built into the simulated data to show how a before/after change is detected; it is not a real clinic event.
 **Period:** 4 November 2024 – 30 October 2026 (104 weeks)
 **Tools:** Excel Power Query (M), Power Pivot (DAX), VBA, PivotTables and PivotCharts, worksheet formulas
 
@@ -15,7 +16,7 @@ A simple rule ("orange if more than 20% cancelled", "red if higher than last mon
 Main findings (synthetic data):
 
 1. **The overall cancellation rate was 12.9%** (941 of 7,313 appointments; 95% CI 12.1–13.7%).
-2. **Cancellations fell after SMS reminders were introduced on 3 November 2025.** The p-chart centre line drops from 15.2% to 10.5%, and the change persists for the whole second year, a shift in the process rather than a one-week blip. This is a before/after comparison without a control group, so other changes at the same time cannot be ruled out.
+2. **Cancellations fell after the (hypothetical) introduction of SMS reminders on 3 November 2025.** The p-chart centre line drops from 15.2% to 10.5%, and the change persists for the whole second year, a shift in the process rather than a one-week blip. This is a before/after comparison without a control group, so other changes at the same time cannot be ruled out.
 3. **Only one week was outside the control limits:** the week of 14 April 2025 (Easter and school holidays), at about 31%. All other weekly rates were within the range expected from chance.
 4. **Most single-week "problems" are noise.** Therapists typically have 2–6 appointments a week, so one cancellation moves a rate from 0% to 20–50%, and 95% confidence intervals are often wider than 40 percentage points. With control limits, most therapist-weeks are OK, and Alerts are rare.
 5. **Age and sex made little difference.** Non-attendance was 10.8% for girls and 12.0% for boys, and 10.3–12.1% across age groups, with overlapping confidence intervals.
@@ -48,7 +49,7 @@ A folder query reads every CSV in `data/zanda_exports/`, combines them, and adds
   - **Z Score:** (therapist rate − clinic rate) / √(clinic rate × (1 − clinic rate) / n).
   - **Upper Limit 95 / 99.8:** clinic rate + 1.96 or 3.09 standard errors.
   - **Signal:** Alarm if Z > 3.09, Alert if Z > 1.96, Low if Z < −1.96, otherwise OK.
-  - **P Centre, P UCL, P LCL:** centre line and 3-sigma limits for the weekly p-chart. The centre line is calculated separately before and after SMS reminders started.
+  - **P Centre, P UCL, P LCL:** centre line and 3-sigma limits for the weekly p-chart. The centre line is calculated separately before and after the hypothetical SMS reminder start.
 
 ### 3.3 Reports (PivotTables and VBA)
 
@@ -71,7 +72,7 @@ COUNTIFS on the *Clients* sheet counts each child's appointments and non-attende
 | Cancelled (not completed) | 941 |
 | % Cancelled (95% CI) | 12.9% (12.1–13.7%) |
 
-### 4.2 Trend and SMS reminders
+### 4.2 Trend and SMS reminders (hypothetical)
 
 ![P-chart](images/pchart.png)
 
@@ -107,14 +108,14 @@ All confidence intervals overlap. These intervals treat each appointment as inde
 
 ## 5. Recommendations for the clinic
 
-1. **Keep the SMS reminders.** The cancellation rate has stayed lower since they started.
+1. **Check changes before and after, as here.** In this scenario the rate stayed lower after SMS reminders started. The same p-chart with separate centre lines applies to any real change, such as a new booking or cancellation policy.
 2. **Use the Signal column rather than the 20% rule** when discussing therapists, and look for repeated Alerts rather than single weeks.
 3. **Use the p-chart for the whole clinic.** Investigate only weeks outside the control limits, and expect higher cancellations in school holidays.
 4. **Plan for holiday periods,** for example with a waitlist to fill slots that families release.
 
 ## 6. Limitations
 
-- **The data are synthetic.** The results show how the report and methods work, not real clinic performance.
+- **The data are synthetic.** The results show how the report and methods work, not real clinic performance. The SMS reminder change was built into the simulated data, so detecting it is a check of the method, not a finding.
 - The SMS comparison is before/after with no control group, and seasonal patterns differ between the two years.
 - Rescheduled appointments are counted as cancelled, and make-up sessions are not tracked.
 - Confidence intervals and limits assume appointments are independent. Repeated appointments by the same child make the real uncertainty larger.

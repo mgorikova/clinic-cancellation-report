@@ -1,0 +1,83 @@
+// =====================================================================
+//  Item 1 - uncertainty and control-limit measures (paste into Power Pivot)
+//  Power Pivot > Measures > New Measure, table: Appointments
+//  Measure name = text before :=      Formula = text after :=
+//  Needs the existing measures [Total], [Cancelled], [% Cancelled]
+//  Uses ALL() because the Excel Power Pivot engine does not know REMOVEFILTERS()
+// =====================================================================
+
+// ---- 95% Wilson confidence interval for % Cancelled -----------------
+CI Low 95 :=
+VAR n = [Total]
+VAR p = [% Cancelled]
+VAR z = 1.96
+VAR den = 1 + z ^ 2 / n
+VAR centre = ( p + z ^ 2 / ( 2 * n ) ) / den
+VAR half = z * SQRT ( p * ( 1 - p ) / n + z ^ 2 / ( 4 * n ^ 2 ) ) / den
+RETURN IF ( n > 0, MAX ( 0, centre - half ) )
+
+CI High 95 :=
+VAR n = [Total]
+VAR p = [% Cancelled]
+VAR z = 1.96
+VAR den = 1 + z ^ 2 / n
+VAR centre = ( p + z ^ 2 / ( 2 * n ) ) / den
+VAR half = z * SQRT ( p * ( 1 - p ) / n + z ^ 2 / ( 4 * n ^ 2 ) ) / den
+RETURN IF ( n > 0, MIN ( 1, centre + half ) )
+
+// ---- the clinic-wide rate for the same week / month (ignores the therapist row)
+Clinic % :=
+CALCULATE ( [% Cancelled], ALL ( Appointments[Therapist] ) )
+
+// ---- how far this therapist is from the clinic, in standard errors
+Z Score :=
+VAR n = [Total]
+VAR p0 = [Clinic %]
+RETURN
+    IF ( n > 0 && p0 > 0 && p0 < 1, DIVIDE ( [% Cancelled] - p0, SQRT ( p0 * ( 1 - p0 ) / n ) ) )
+
+// ---- control limits (funnel plot / p-chart limits) -------------------
+Upper Limit 95 :=
+VAR n = [Total]
+VAR p0 = [Clinic %]
+RETURN IF ( n > 0, MIN ( 1, p0 + 1.96 * SQRT ( p0 * ( 1 - p0 ) / n ) ) )
+
+Upper Limit 99.8 :=
+VAR n = [Total]
+VAR p0 = [Clinic %]
+RETURN IF ( n > 0, MIN ( 1, p0 + 3.09 * SQRT ( p0 * ( 1 - p0 ) / n ) ) )
+
+// ---- a word the reader can act on ------------------------------------
+Signal :=
+VAR z = [Z Score]
+RETURN
+    SWITCH (
+        TRUE (),
+        ISBLANK ( z ), BLANK (),
+        z > 3.09, "Alarm",
+        z > 1.96, "Alert",
+        z < -1.96, "Low",
+        "OK"
+    )
+
+// ---- weekly p-chart (put Start Week on rows, no therapist) ------------
+//  p-chart centre = rate over the whole phase (before / after SMS reminders, 3 Nov 2025)
+P Centre :=
+VAR wkStart = MIN ( Appointments[Start of Week] )
+VAR smsDate = DATE ( 2025, 11, 3 )
+RETURN
+    IF (
+        wkStart >= smsDate,
+        CALCULATE ( [% Cancelled], ALL ( Appointments ), Appointments[Start of Week] >= smsDate ),
+        CALCULATE ( [% Cancelled], ALL ( Appointments ), Appointments[Start of Week] < smsDate )
+    )
+
+P UCL :=
+VAR n = [Total]
+VAR c = [P Centre]
+RETURN IF ( n > 0, c + 3 * SQRT ( c * ( 1 - c ) / n ) )
+
+P LCL :=
+VAR n = [Total]
+VAR c = [P Centre]
+RETURN IF ( n > 0, MAX ( 0, c - 3 * SQRT ( c * ( 1 - c ) / n ) ) )

@@ -1,0 +1,16 @@
+# never commit real patient data
+private/
+real_data/
+# macro workbooks are allowed only in excel/
+*.xlsm
+!excel/*.xlsm
+~$*
+# python / os
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.venv/
+dashboard/
+data/processed/

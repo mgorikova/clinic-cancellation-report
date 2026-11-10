@@ -1,0 +1,247 @@
+Client Name,Therapist,Date,End Time,Day,Appointment Type,Type of Play Therapy,Duration (min),Status,Reason for Cancellation
+Amelia Cole,Daniel Okafor,3/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Amelia Cole,Daniel Okafor,10/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Amelia Cole,Daniel Okafor,17/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Amelia Nelson,Priya Raman,16/12/2024 4:00 PM,5:30 PM,Monday,Initial Assessment,Child-Centred Play Therapy,90,Completed,
+Archer Ellis,Leila Haddad,3/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Archer Ellis,Leila Haddad,10/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Archer Ellis,Leila Haddad,17/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Archer Young,Mei Lin,6/12/2024 2:00 PM,3:00 PM,Friday,Parent Review,Art-Based Play Therapy,60,Completed,
+Archer Young,Mei Lin,13/12/2024 2:00 PM,2:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Archer Young,Mei Lin,20/12/2024 2:00 PM,2:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Aria Cruz,Kavya Iyer,3/12/2024 12:00 PM,1:30 PM,Tuesday,Initial Assessment,Child-Centred Play Therapy,90,Rescheduled,Scheduling conflict
+Aria Stewart,Fiona Gallagher,3/12/2024 12:00 PM,12:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Aria Stewart,Fiona Gallagher,10/12/2024 12:00 PM,1:00 PM,Tuesday,Discharge Review,Sandtray Therapy,60,Completed,
+Aria Watson,Ruby Brennan,6/12/2024 4:00 PM,4:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Aria Watson,Ruby Brennan,13/12/2024 4:00 PM,5:00 PM,Friday,Discharge Review,Child-Centred Play Therapy,60,Completed,
+Arlo Obrien,Amara Nguyen,2/12/2024 12:00 PM,1:00 PM,Monday,Parent Review,Child-Centred Play Therapy,60,Rescheduled,Transportation issue
+Arlo Obrien,Amara Nguyen,9/12/2024 12:00 PM,12:50 PM,Monday,Ongoing Session,Child-Centred Play Therapy,50,No Show,No reason given
+Arlo Obrien,Amara Nguyen,16/12/2024 12:00 PM,12:50 PM,Monday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Ava Wallace,Leila Haddad,3/12/2024 3:00 PM,4:00 PM,Tuesday,Parent Review,Theraplay,60,Cancelled,Scheduling conflict
+Billie Bennett,Hannah Becker,2/12/2024 9:00 AM,10:00 AM,Monday,Parent Review,Filial Therapy,60,Completed,
+Billie Bennett,Hannah Becker,9/12/2024 9:00 AM,9:50 AM,Monday,Ongoing Session,Filial Therapy,50,Completed,
+Billie Bennett,Hannah Becker,16/12/2024 9:00 AM,9:50 AM,Monday,Ongoing Session,Filial Therapy,50,Completed,
+Billie Marshall,Isabel Ferreira,5/12/2024 1:00 PM,1:50 PM,Thursday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Billie Marshall,Isabel Ferreira,12/12/2024 1:00 PM,1:50 PM,Thursday,Ongoing Session,Art-Based Play Therapy,50,Rescheduled,Family emergency
+Billie Marshall,Isabel Ferreira,19/12/2024 1:00 PM,1:50 PM,Thursday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Charlie Gibson,Nadia Kowalski,3/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Charlie Gibson,Nadia Kowalski,10/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Rescheduled,Personal reasons
+Charlie Gibson,Nadia Kowalski,17/12/2024 3:00 PM,4:00 PM,Tuesday,Parent Review,Cognitive Behavioural Play Therapy,60,Completed,
+Charlie Johnson,Elena Petrov,6/12/2024 10:00 AM,10:50 AM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Family emergency
+Charlie Johnson,Elena Petrov,20/12/2024 10:00 AM,10:50 AM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Chloe Ellis,Tom Ashby,5/12/2024 1:00 PM,2:30 PM,Thursday,Initial Assessment,Sandtray Therapy,90,Completed,
+Chloe Ellis,Tom Ashby,12/12/2024 1:00 PM,1:50 PM,Thursday,Ongoing Session,Sandtray Therapy,50,Completed,
+Chloe Ellis,Tom Ashby,19/12/2024 1:00 PM,1:50 PM,Thursday,Ongoing Session,Sandtray Therapy,50,Cancelled,Therapist illness
+Cleo Dixon,Amara Nguyen,2/12/2024 2:00 PM,3:00 PM,Monday,Discharge Review,Child-Centred Play Therapy,60,Completed,
+Cleo Stewart,Leila Haddad,3/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Cleo Stewart,Leila Haddad,10/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Cleo Stewart,Leila Haddad,17/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Darcy Fleming,Leila Haddad,10/12/2024 2:00 PM,3:30 PM,Tuesday,Initial Assessment,Theraplay,90,Completed,
+Eden Cox,Grace Whitfield,6/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Eden Cox,Grace Whitfield,13/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,No Show,No reason given
+Eden Cox,Grace Whitfield,20/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Ella Fisher,Tom Ashby,3/12/2024 9:00 AM,9:50 AM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Ella Fisher,Tom Ashby,17/12/2024 9:00 AM,9:50 AM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Ella James,Leila Haddad,5/12/2024 9:00 AM,10:00 AM,Thursday,Discharge Review,Child-Centred Play Therapy,60,Completed,
+Ella Kennedy,Hannah Becker,5/12/2024 12:00 PM,1:00 PM,Thursday,Parent Review,Sandtray Therapy,60,Completed,
+Ella Kennedy,Hannah Becker,12/12/2024 12:00 PM,1:00 PM,Thursday,Discharge Review,Sandtray Therapy,60,Completed,
+Elsie Dixon,Chloe Moreau,5/12/2024 3:00 PM,3:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Elsie Dixon,Chloe Moreau,19/12/2024 3:00 PM,4:00 PM,Thursday,Parent Review,Child-Centred Play Therapy,60,Completed,
+Emil Grant,Priya Raman,3/12/2024 12:00 PM,12:50 PM,Tuesday,Ongoing Session,Filial Therapy,50,Completed,
+Emil Grant,Priya Raman,10/12/2024 12:00 PM,12:50 PM,Tuesday,Ongoing Session,Filial Therapy,50,Cancelled,Scheduling conflict
+Emil Grant,Priya Raman,17/12/2024 12:00 PM,12:50 PM,Tuesday,Ongoing Session,Filial Therapy,50,Completed,
+Emil Hayes,Chloe Moreau,5/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Theraplay,50,Completed,
+Emil Hayes,Chloe Moreau,19/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Theraplay,50,Cancelled,Personal reasons
+Emil Roberts,Ruby Brennan,9/12/2024 11:00 AM,12:30 PM,Monday,Initial Assessment,Cognitive Behavioural Play Therapy,90,Cancelled,Client illness
+Esme Thomas,Olivia Harper,17/12/2024 2:00 PM,3:30 PM,Tuesday,Initial Assessment,Sandtray Therapy,90,Completed,
+Ezra Lopez,Lucas Marchetti,6/12/2024 3:00 PM,4:00 PM,Friday,Discharge Review,Child-Centred Play Therapy,60,Completed,
+Felix Cole,Lucas Marchetti,2/12/2024 5:00 PM,5:50 PM,Monday,Ongoing Session,Art-Based Play Therapy,50,Cancelled,Client illness
+Felix Cole,Lucas Marchetti,16/12/2024 4:00 PM,5:00 PM,Monday,Discharge Review,Art-Based Play Therapy,60,Cancelled,Client illness
+Felix Lloyd,Maya Sato,4/12/2024 8:00 AM,8:50 AM,Wednesday,Ongoing Session,Theraplay,50,Completed,
+Felix Lloyd,Maya Sato,11/12/2024 8:00 AM,9:00 AM,Wednesday,Discharge Review,Theraplay,60,Completed,
+Finn Campbell,Mei Lin,4/12/2024 3:00 PM,3:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Finn Campbell,Mei Lin,11/12/2024 3:00 PM,3:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Therapist illness
+Finn Campbell,Mei Lin,18/12/2024 3:00 PM,4:00 PM,Wednesday,Parent Review,Child-Centred Play Therapy,60,Completed,
+Finn Chan,Olivia Harper,5/12/2024 2:00 PM,2:50 PM,Thursday,Ongoing Session,Theraplay,50,Completed,
+Finn Chan,Olivia Harper,12/12/2024 2:00 PM,2:50 PM,Thursday,Ongoing Session,Theraplay,50,Completed,
+Finn Chan,Olivia Harper,19/12/2024 2:00 PM,3:00 PM,Thursday,Parent Review,Theraplay,60,Completed,
+Florence Cooper,Amara Nguyen,9/12/2024 3:00 PM,4:30 PM,Monday,Initial Assessment,Child-Centred Play Therapy,90,Completed,
+Florence Cooper,Amara Nguyen,16/12/2024 3:00 PM,3:50 PM,Monday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Frankie Dixon,Nadia Kowalski,4/12/2024 12:00 PM,1:00 PM,Wednesday,Parent Review,Cognitive Behavioural Play Therapy,60,Completed,
+Frankie Dixon,Nadia Kowalski,11/12/2024 12:00 PM,12:50 PM,Wednesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Frankie Dixon,Nadia Kowalski,18/12/2024 12:00 PM,12:50 PM,Wednesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Harley Mills,Isabel Ferreira,3/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Harley Mills,Isabel Ferreira,10/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Harley Mills,Isabel Ferreira,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Harley Novak,Olivia Harper,3/12/2024 10:00 AM,11:00 AM,Tuesday,Parent Review,Theraplay,60,Completed,
+Harley Novak,Olivia Harper,17/12/2024 10:00 AM,10:50 AM,Tuesday,Ongoing Session,Theraplay,50,Completed,
+Hazel Ali,Hannah Becker,2/12/2024 9:00 AM,10:00 AM,Monday,Parent Review,Theraplay,60,Completed,
+Hazel Ali,Hannah Becker,9/12/2024 9:00 AM,9:50 AM,Monday,Ongoing Session,Theraplay,50,Completed,
+Hazel Ali,Hannah Becker,16/12/2024 9:00 AM,9:50 AM,Monday,Ongoing Session,Theraplay,50,Completed,
+Henry Lloyd,Tom Ashby,5/12/2024 11:00 AM,11:50 AM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Henry Lloyd,Tom Ashby,12/12/2024 11:00 AM,11:50 AM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Henry Lloyd,Tom Ashby,19/12/2024 11:00 AM,11:50 AM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Henry Turner,Isabel Ferreira,6/12/2024 12:00 PM,12:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Henry Turner,Isabel Ferreira,20/12/2024 12:00 PM,1:00 PM,Friday,Parent Review,Child-Centred Play Therapy,60,Completed,
+Hudson Farrell,Lucas Marchetti,6/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Hudson Farrell,Lucas Marchetti,20/12/2024 4:00 PM,5:00 PM,Friday,Parent Review,Child-Centred Play Therapy,60,Rescheduled,Scheduling conflict
+Hudson Fisher,Chloe Moreau,5/12/2024 11:00 AM,11:50 AM,Thursday,Ongoing Session,Sandtray Therapy,50,Completed,
+Hudson Fisher,Chloe Moreau,12/12/2024 11:00 AM,11:50 AM,Thursday,Ongoing Session,Sandtray Therapy,50,Completed,
+Hudson Fisher,Chloe Moreau,19/12/2024 11:00 AM,11:50 AM,Thursday,Ongoing Session,Sandtray Therapy,50,Completed,
+Hudson Ford,Elena Petrov,4/12/2024 11:00 AM,11:50 AM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Hudson Ford,Elena Petrov,11/12/2024 11:00 AM,11:50 AM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Hudson Ford,Elena Petrov,18/12/2024 11:00 AM,11:50 AM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Hudson Nelson,Grace Whitfield,3/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Hudson Nelson,Grace Whitfield,10/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,No Show,No reason given
+Hudson Nelson,Grace Whitfield,17/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Rescheduled,Personal reasons
+Hudson Wallace,Hannah Becker,6/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Theraplay,50,Completed,
+Hudson Wallace,Hannah Becker,20/12/2024 3:00 PM,4:00 PM,Friday,Parent Review,Theraplay,60,Cancelled,Family emergency
+Isla Abbott,Ruby Brennan,4/12/2024 3:00 PM,3:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Isla Abbott,Ruby Brennan,11/12/2024 3:00 PM,4:00 PM,Wednesday,Discharge Review,Child-Centred Play Therapy,60,Completed,
+Isla Foster,Mei Lin,6/12/2024 4:00 PM,5:00 PM,Friday,Discharge Review,Theraplay,60,Completed,
+Jack Wilson,Sophie Castellano,3/12/2024 10:00 AM,11:00 AM,Tuesday,Parent Review,Art-Based Play Therapy,60,Completed,
+Jack Wilson,Sophie Castellano,10/12/2024 10:00 AM,11:00 AM,Tuesday,Discharge Review,Art-Based Play Therapy,60,Completed,
+Jaxon Ahmed,Grace Whitfield,6/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Theraplay,50,Completed,
+Jaxon Ahmed,Grace Whitfield,13/12/2024 3:00 PM,4:00 PM,Friday,Parent Review,Theraplay,60,Completed,
+Jaxon Ahmed,Grace Whitfield,20/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Theraplay,50,Completed,
+Kai Hayes,Tom Ashby,3/12/2024 3:00 PM,4:30 PM,Tuesday,Initial Assessment,Cognitive Behavioural Play Therapy,90,Rescheduled,Scheduling conflict
+Kai Hayes,Tom Ashby,10/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Kai Hayes,Tom Ashby,17/12/2024 3:00 PM,3:50 PM,Tuesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Kai Lloyd,Olivia Harper,13/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Scheduling conflict
+Kai Murray,Sophie Castellano,2/12/2024 3:00 PM,4:00 PM,Monday,Parent Review,Child-Centred Play Therapy,60,Completed,
+Kai Murray,Sophie Castellano,16/12/2024 3:00 PM,3:50 PM,Monday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Kai Wong,Daniel Okafor,6/12/2024 1:00 PM,1:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Kai Wong,Daniel Okafor,13/12/2024 1:00 PM,1:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Therapist illness
+Kai Wong,Daniel Okafor,20/12/2024 1:00 PM,1:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Lachlan Ellis,Hannah Becker,6/12/2024 3:00 PM,4:30 PM,Friday,Initial Assessment,Child-Centred Play Therapy,90,Completed,
+Lachlan Ellis,Hannah Becker,20/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Rescheduled,Transportation issue
+Lachlan Tran,Fiona Gallagher,6/12/2024 4:00 PM,4:50 PM,Friday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Lachlan Tran,Fiona Gallagher,13/12/2024 4:00 PM,4:50 PM,Friday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Layla Hall,Priya Raman,2/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Layla Hall,Priya Raman,9/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Layla Hall,Priya Raman,16/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Leilani Chen,Chloe Moreau,6/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Leilani Chen,Chloe Moreau,13/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Leilani Chen,Chloe Moreau,20/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Leilani Hughes,Tom Ashby,13/12/2024 9:00 AM,10:30 AM,Friday,Initial Assessment,Sandtray Therapy,90,Completed,
+Leilani Hughes,Tom Ashby,20/12/2024 9:00 AM,9:50 AM,Friday,Ongoing Session,Sandtray Therapy,50,Cancelled,Scheduling conflict
+Lily Murphy,Grace Whitfield,6/12/2024 1:00 PM,2:30 PM,Friday,Initial Assessment,Sandtray Therapy,90,Rescheduled,Personal reasons
+Lily Murphy,Grace Whitfield,13/12/2024 1:00 PM,1:50 PM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Lily Murphy,Grace Whitfield,20/12/2024 1:00 PM,1:50 PM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Lola Fraser,Leila Haddad,4/12/2024 5:00 PM,5:50 PM,Wednesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Lola Fraser,Leila Haddad,11/12/2024 5:00 PM,5:50 PM,Wednesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Lola Fraser,Leila Haddad,18/12/2024 4:00 PM,5:00 PM,Wednesday,Parent Review,Cognitive Behavioural Play Therapy,60,Completed,
+Lucy Thomas,Priya Raman,2/12/2024 10:00 AM,11:30 AM,Monday,Initial Assessment,Child-Centred Play Therapy,90,Completed,
+Lucy Thomas,Priya Raman,16/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Malik Jackson,Maya Sato,3/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Theraplay,50,Cancelled,Client illness
+Malik Knight,Zara Delgado,5/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Malik Knight,Zara Delgado,12/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Cancelled,Work conflict
+Malik Knight,Zara Delgado,19/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Cancelled,Weather
+Mason Hamilton,Grace Whitfield,2/12/2024 4:00 PM,5:30 PM,Monday,Initial Assessment,Filial Therapy,90,Completed,
+Mason Hamilton,Grace Whitfield,9/12/2024 4:00 PM,4:50 PM,Monday,Ongoing Session,Filial Therapy,50,Completed,
+Mason Hamilton,Grace Whitfield,16/12/2024 4:00 PM,4:50 PM,Monday,Ongoing Session,Filial Therapy,50,Completed,
+Matilda Owens,Leila Haddad,3/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Matilda Owens,Leila Haddad,10/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Matilda Owens,Leila Haddad,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Matilda Silva,Mei Lin,13/12/2024 11:00 AM,12:30 PM,Friday,Initial Assessment,Art-Based Play Therapy,90,Completed,
+Mia Foster,Nadia Kowalski,13/12/2024 1:00 PM,1:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Mia Hayes,Amara Nguyen,13/12/2024 4:00 PM,5:30 PM,Friday,Initial Assessment,Cognitive Behavioural Play Therapy,90,Completed,
+Mia Hayes,Amara Nguyen,20/12/2024 4:00 PM,4:50 PM,Friday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Cancelled,Client illness
+Nate Nguyen,Amara Nguyen,2/12/2024 4:00 PM,4:50 PM,Monday,Ongoing Session,Sandtray Therapy,50,Completed,
+Nate Nguyen,Amara Nguyen,9/12/2024 4:00 PM,5:00 PM,Monday,Parent Review,Sandtray Therapy,60,Cancelled,Client illness
+Nate Nguyen,Amara Nguyen,16/12/2024 4:00 PM,4:50 PM,Monday,Ongoing Session,Sandtray Therapy,50,Completed,
+Noah Doyle,Kavya Iyer,2/12/2024 4:00 PM,5:30 PM,Monday,Initial Assessment,Theraplay,90,Completed,
+Noah Doyle,Kavya Iyer,9/12/2024 4:00 PM,4:50 PM,Monday,Ongoing Session,Theraplay,50,Completed,
+Noah Doyle,Kavya Iyer,16/12/2024 4:00 PM,4:50 PM,Monday,Ongoing Session,Theraplay,50,Completed,
+Ollie Baker,Fiona Gallagher,6/12/2024 9:00 AM,9:50 AM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Ollie Baker,Fiona Gallagher,13/12/2024 9:00 AM,9:50 AM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Ollie Baker,Fiona Gallagher,20/12/2024 9:00 AM,9:50 AM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Ollie Chan,Sophie Castellano,4/12/2024 3:00 PM,3:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Ollie Chan,Sophie Castellano,11/12/2024 3:00 PM,3:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Ollie Chan,Sophie Castellano,18/12/2024 3:00 PM,3:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Omar Kennedy,Priya Raman,3/12/2024 4:00 PM,5:00 PM,Tuesday,Parent Review,Child-Centred Play Therapy,60,Completed,
+Omar Kennedy,Priya Raman,10/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Omar Kennedy,Priya Raman,17/12/2024 4:00 PM,4:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Omar Murray,Mei Lin,3/12/2024 4:00 PM,5:30 PM,Tuesday,Initial Assessment,Art-Based Play Therapy,90,Completed,
+Omar Murray,Mei Lin,10/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Omar Murray,Mei Lin,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Oscar Silva,Ruby Brennan,6/12/2024 4:00 PM,5:00 PM,Friday,Parent Review,Child-Centred Play Therapy,60,Completed,
+Oscar Silva,Ruby Brennan,13/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Oscar Silva,Ruby Brennan,20/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Pearl Ryan,Zara Delgado,2/12/2024 2:00 PM,3:00 PM,Monday,Discharge Review,Child-Centred Play Therapy,60,Cancelled,Work conflict
+Pearl Ryan,Zara Delgado,9/12/2024 2:00 PM,3:00 PM,Monday,Discharge Review,Child-Centred Play Therapy,60,Completed,
+Pearl Webb,Isabel Ferreira,3/12/2024 8:00 AM,8:50 AM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Pearl Webb,Isabel Ferreira,10/12/2024 8:00 AM,8:50 AM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Pearl Webb,Isabel Ferreira,17/12/2024 8:00 AM,9:00 AM,Tuesday,Parent Review,Sandtray Therapy,60,Cancelled,Family emergency
+Penny Khan,Lucas Marchetti,5/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Penny Khan,Lucas Marchetti,12/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Penny Khan,Lucas Marchetti,19/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Quinn Russell,Sophie Castellano,3/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Client illness
+Quinn Russell,Sophie Castellano,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Rescheduled,Client illness
+Rhea Knight,Fiona Gallagher,17/12/2024 11:00 AM,12:30 PM,Tuesday,Initial Assessment,Child-Centred Play Therapy,90,Completed,
+Rhea Tran,Fiona Gallagher,9/12/2024 9:00 AM,10:30 AM,Monday,Initial Assessment,Art-Based Play Therapy,90,Completed,
+Rhea Tran,Fiona Gallagher,16/12/2024 9:00 AM,9:50 AM,Monday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+River Cole,Hannah Becker,6/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+River Cole,Hannah Becker,13/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Cancelled,Client illness
+River Cole,Hannah Becker,20/12/2024 3:00 PM,3:50 PM,Friday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+River Jensen,Nadia Kowalski,3/12/2024 9:00 AM,9:50 AM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+River Jensen,Nadia Kowalski,17/12/2024 9:00 AM,9:50 AM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+River Shaw,Maya Sato,3/12/2024 1:00 PM,1:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Cancelled,Personal reasons
+River Shaw,Maya Sato,10/12/2024 1:00 PM,1:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+River Shaw,Maya Sato,17/12/2024 1:00 PM,1:50 PM,Tuesday,Ongoing Session,Sandtray Therapy,50,Completed,
+Rosie Clarke,Mei Lin,3/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Rosie Clarke,Mei Lin,10/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Rosie Clarke,Mei Lin,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sadie Ali,Daniel Okafor,5/12/2024 4:00 PM,5:00 PM,Thursday,Discharge Review,Cognitive Behavioural Play Therapy,60,Cancelled,Therapist illness
+Sadie Ali,Daniel Okafor,19/12/2024 4:00 PM,5:00 PM,Thursday,Discharge Review,Cognitive Behavioural Play Therapy,60,Completed,
+Sadie Nelson,Hannah Becker,16/12/2024 4:00 PM,5:30 PM,Monday,Initial Assessment,Cognitive Behavioural Play Therapy,90,Completed,
+Sam Bailey,Leila Haddad,10/12/2024 8:00 AM,9:30 AM,Tuesday,Initial Assessment,Child-Centred Play Therapy,90,Completed,
+Sam Bailey,Leila Haddad,17/12/2024 8:00 AM,8:50 AM,Tuesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sam Evans,Fiona Gallagher,6/12/2024 4:00 PM,5:00 PM,Friday,Discharge Review,Sandtray Therapy,60,Completed,
+Sam Gibson,Sophie Castellano,4/12/2024 2:00 PM,3:00 PM,Wednesday,Discharge Review,Theraplay,60,Completed,
+Sam Hamilton,Ruby Brennan,18/12/2024 4:00 PM,5:30 PM,Wednesday,Initial Assessment,Theraplay,90,Completed,
+Sam Young,Lucas Marchetti,4/12/2024 2:00 PM,2:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sam Young,Lucas Marchetti,18/12/2024 2:00 PM,2:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sami Cole,Nadia Kowalski,5/12/2024 3:00 PM,3:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sami Cole,Nadia Kowalski,12/12/2024 3:00 PM,3:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sami Cole,Nadia Kowalski,19/12/2024 3:00 PM,3:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Sami Hayes,Elena Petrov,5/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Sami Hayes,Elena Petrov,12/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Sami Hayes,Elena Petrov,19/12/2024 5:00 PM,5:50 PM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Stella Tan,Maya Sato,3/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Filial Therapy,50,Completed,
+Stella Tan,Maya Sato,10/12/2024 4:00 PM,5:00 PM,Tuesday,Parent Review,Filial Therapy,60,Completed,
+Stella Tan,Maya Sato,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Filial Therapy,50,Completed,
+Tane Farrell,Kavya Iyer,5/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Client illness
+Tane Farrell,Kavya Iyer,12/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Client illness
+Tane Farrell,Kavya Iyer,19/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Family emergency
+Theo Ali,Mei Lin,3/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Theo Ali,Mei Lin,10/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Theo Ali,Mei Lin,17/12/2024 5:00 PM,5:50 PM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Theo Chen,Daniel Okafor,9/12/2024 3:00 PM,3:50 PM,Monday,Ongoing Session,Art-Based Play Therapy,50,Cancelled,Family emergency
+Theo Hall,Chloe Moreau,3/12/2024 9:00 AM,9:50 AM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Theo Hall,Chloe Moreau,17/12/2024 9:00 AM,9:50 AM,Tuesday,Ongoing Session,Art-Based Play Therapy,50,Completed,
+Theo Khan,Zara Delgado,4/12/2024 2:00 PM,2:50 PM,Wednesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Theo Khan,Zara Delgado,11/12/2024 2:00 PM,2:50 PM,Wednesday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Theo Khan,Zara Delgado,18/12/2024 2:00 PM,3:00 PM,Wednesday,Parent Review,Cognitive Behavioural Play Therapy,60,Completed,
+Toby Cruz,Kavya Iyer,17/12/2024 12:00 PM,1:30 PM,Tuesday,Initial Assessment,Art-Based Play Therapy,90,Completed,
+Toby Evans,Zara Delgado,5/12/2024 4:00 PM,5:00 PM,Thursday,Discharge Review,Cognitive Behavioural Play Therapy,60,Cancelled,Client illness
+Toby Evans,Zara Delgado,12/12/2024 4:00 PM,5:00 PM,Thursday,Parent Review,Cognitive Behavioural Play Therapy,60,Completed,
+Toby Evans,Zara Delgado,19/12/2024 4:00 PM,5:00 PM,Thursday,Discharge Review,Cognitive Behavioural Play Therapy,60,Completed,
+Uma Clarke,Isabel Ferreira,5/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Theraplay,50,Cancelled,Work conflict
+Uma Clarke,Isabel Ferreira,12/12/2024 4:00 PM,4:50 PM,Thursday,Ongoing Session,Theraplay,50,Completed,
+Uma Clarke,Isabel Ferreira,19/12/2024 4:00 PM,5:00 PM,Thursday,Parent Review,Theraplay,60,Completed,
+Willow Hughes,Ruby Brennan,4/12/2024 4:00 PM,4:50 PM,Wednesday,Ongoing Session,Child-Centred Play Therapy,50,Cancelled,Transportation issue
+Willow Khan,Fiona Gallagher,17/12/2024 8:00 AM,9:30 AM,Tuesday,Initial Assessment,Art-Based Play Therapy,90,Completed,
+Yara Owens,Ruby Brennan,17/12/2024 11:00 AM,12:30 PM,Tuesday,Initial Assessment,Cognitive Behavioural Play Therapy,90,No Show,No reason given
+Zac Khan,Elena Petrov,6/12/2024 11:00 AM,11:50 AM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Zac Khan,Elena Petrov,13/12/2024 11:00 AM,11:50 AM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Zac Khan,Elena Petrov,20/12/2024 11:00 AM,11:50 AM,Friday,Ongoing Session,Child-Centred Play Therapy,50,Completed,
+Zoe Jackson,Grace Whitfield,2/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Zoe Jackson,Grace Whitfield,9/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Cancelled,Transportation issue
+Zoe Jackson,Grace Whitfield,16/12/2024 10:00 AM,10:50 AM,Monday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Zoe James,Priya Raman,6/12/2024 2:00 PM,3:00 PM,Friday,Discharge Review,Cognitive Behavioural Play Therapy,60,Completed,
+Zoe Moore,Amara Nguyen,6/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Zoe Moore,Amara Nguyen,13/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Sandtray Therapy,50,Cancelled,Scheduling conflict
+Zoe Moore,Amara Nguyen,20/12/2024 5:00 PM,5:50 PM,Friday,Ongoing Session,Sandtray Therapy,50,Completed,
+Zoe Young,Chloe Moreau,5/12/2024 9:00 AM,9:50 AM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
+Zoe Young,Chloe Moreau,19/12/2024 9:00 AM,9:50 AM,Thursday,Ongoing Session,Cognitive Behavioural Play Therapy,50,Completed,
